@@ -29,7 +29,7 @@
         <repository>
             <id>deployment</id>
             <name>maven-central</name>
-            <url>http://54.188.221.175:8081/#browse/browse:maven-central</url>
+            <url>http://54.188.221.175:8081/repository/maven-central/</url>
         </repository>
     </distributionManagement>
   <dependencies>

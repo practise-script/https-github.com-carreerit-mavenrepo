@@ -27,7 +27,7 @@
   </build>
    <distributionManagement>
         <repository>
-            <id>deployment</id>
+            <id>maven-central</id>
             <name>maven-central</name>
             <url>http://54.188.221.175:8081/repository/maven-central/</url>
         </repository>

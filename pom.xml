@@ -31,11 +31,6 @@
             <name>Internal Releases</name>
             <url>http://54.188.221.175:8081/repository/maven-central/</url>
         </repository>
-        <snapshotRepository>
-            <id>deployment</id>
-            <name>Internal Snapshot Releases</name>
-            <url>http://54.188.221.175:8081/repository/maven-snapshots/</url>
-        </snapshotRepository>
     </distributionManagement>
   <dependencies>
   	<dependency>

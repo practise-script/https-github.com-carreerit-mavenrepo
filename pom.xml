@@ -27,8 +27,8 @@
   </build>
    <distributionManagement>
         <repository>
-            <id>maven-central</id>
-            <name>maven-central</name>
+            <id>Myrepo</id>
+            <name>Myrepo</name>
             <url>http://54.218.85.142:8081/repository/Myrepo/</url>
         </repository>
     </distributionManagement>

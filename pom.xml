@@ -28,8 +28,6 @@
    <distributionManagement>
         <repository>
             <id>maven-central</id>
-            <username>admin</username>
-            <password>11981511</password>
             <name>maven-central</name>
             <url>http://54.218.85.142:8081/repository/maven-central/</url>
         </repository>

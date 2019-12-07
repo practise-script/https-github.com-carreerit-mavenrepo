@@ -27,14 +27,14 @@
   </build>
    <distributionManagement>
          <repository>
-            <id>Myrepo</id>
-            <name>Myrepo</name>
-            <url>http://44.227.64.179:8081/repository/Myrepo/</url>
-        </repository>
-        <snapshotRepository>
             <id>Mysnap1</id>
             <name>Mysnap1</name>
             <url>http://44.227.64.179:8081/repository/Mysnap1/</url>
+        </repository>
+        <snapshotRepository>
+            <id>Myrepo</id>
+            <name>Myrepo</name>
+            <url>http://44.227.64.179:8081/repository/Myrepo/</url>
         </snapshotRepository>   
     </distributionManagement>
   <dependencies>

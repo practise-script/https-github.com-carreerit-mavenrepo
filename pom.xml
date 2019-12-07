@@ -32,9 +32,9 @@
             <url>http://44.227.64.179:8081/repository/Myrepo/</url>
         </repository>
         <snapshotRepository>
-            <id>Mysnap</id>
-            <name>Mysnap</name>
-            <url>http://44.227.64.179:8081/repository/Mysnap/</url>
+            <id>Mysnap1</id>
+            <name>Mysnap1</name>
+            <url>http://44.227.64.179:8081/repository/Mysnap1/</url>
         </snapshotRepository>   
     </distributionManagement>
   <dependencies>

@@ -27,10 +27,10 @@
   </build>
    <distributionManagement>
         <repository>
-            <id>Myrepo</id>
+            
             <name>Myrepo</name>
             <url>http://44.227.64.179:8081/repository/Myrepo/</url>
-            <id>maven-snapshots</id>
+            
             <name>maven-snapshots</name>
             <url>http://44.227.64.179:8081/repository/maven-snapshots/</url>
         </repository>     

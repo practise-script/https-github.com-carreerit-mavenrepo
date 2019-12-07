@@ -31,10 +31,10 @@
             <name>Myrepo</name>
             <url>http://44.227.64.179:8081/repository/Myrepo/</url>
         </repository>
-        <repository-1>
+        <repository-new>
           <name>maven-snapshots</name>
           <url>http://44.227.64.179:8081/repository/maven-snapshots/</url>
-        </repository-1>
+        </repository-new>
     </distributionManagement>
   <dependencies>
   	<dependency>

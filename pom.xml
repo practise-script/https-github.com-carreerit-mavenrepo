@@ -30,12 +30,10 @@
             <id>Myrepo</id>
             <name>Myrepo</name>
             <url>http://44.227.64.179:8081/repository/Myrepo/</url>
-        </repository>
-        <repository>
-          <id>maven-snapshots</id>
-          <name>maven-snapshots</name>
-          <url>http://44.227.64.179:8081/repository/maven-snapshots/</url>
-        </repository>
+            <id>maven-snapshots</id>
+            <name>maven-snapshots</name>
+            <url>http://44.227.64.179:8081/repository/maven-snapshots/</url>
+        </repository>     
     </distributionManagement>
   <dependencies>
   	<dependency>

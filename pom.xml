@@ -31,11 +31,11 @@
             <name>release</name>
             <url>http://44.227.64.179:8081/repository/release/</url>
         </repository>
-        <snapshotRepository>
+        <repository>
             <id>snapshot</id>
             <name>snapshot</name>
             <url>http://44.227.64.179:8081/repository/snapshot/</url>
-        </snapshotRepository>   
+        </repository>   
     </distributionManagement>
   <dependencies>
   	<dependency>

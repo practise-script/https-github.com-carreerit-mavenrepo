@@ -27,14 +27,14 @@
   </build>
    <distributionManagement>
          <repository>
-            <id>maven-releases</id>
-            <name>maven-releases</name>
-            <url>http://44.227.64.179:8081/repository/maven-releases/</url>
+            <id>release</id>
+            <name>release</name>
+            <url>http://44.227.64.179:8081/repository/release/</url>
         </repository>
         <snapshotRepository>
-            <id>maven-snapshots</id>
-            <name>maven-snapshots</name>
-            <url>http://44.227.64.179:8081/repository/maven-snapshots/</url>
+            <id>snapshot</id>
+            <name>snapshot</name>
+            <url>http://44.227.64.179:8081/repository/snapshot/</url>
         </snapshotRepository>   
     </distributionManagement>
   <dependencies>
